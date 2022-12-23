@@ -2,13 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+<!-- TODO - What is the problem? And where is the challenge? -->
+A program "my_ngram" It counts the number of occurrences per character.
 
 ## Description
-TODO - How have you solved the problem?
+<!-- TODO - How have you solved the problem? -->
+My Ngram will take 1 or multiple strings as arguments.
+It will display, one per line, each character and the numbers of times it appears.
+Order will be alphanumerical.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+<!-- TODO - How to install your project? npm install? make? make re? -->
+None required according to the project specifications.
 
 ## Usage
 TODO - How does it work?
