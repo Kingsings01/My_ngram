@@ -13,16 +13,16 @@ Order will be alphanumerical.
 
 ## Installation
 <!-- TODO - How to install your project? npm install? make? make re? -->
-None required according to the project specifications.
+No installation was done or needed for this particular project
 
 ## Usage
-TODO - How does it work?
+No installation was done or needed for this particular project
 ```
 ./my_project argument1 argument2
 ```
 
 ### The Core Team
-
+The project required a group of two to execute it. I, fatomi abiodun and kingsley collaborated to execute it.
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
